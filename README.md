@@ -4,8 +4,9 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+💻;Full+Stack+Developer+🚀;React+%7C+Node+%7C+Laravel+%7C+Next+JS;MongoDB+%7C+MySQL+%7C+Redis+%7C+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+💻;Full+Stack+Developer+🚀;React+%7C+Node+%7C+Laravel+%7C+Next+JS;MongoDB+%7C+MySQL+%7C+Redis+%7C+Docker" alt="Typing SVG" />
 </p>
+
 
 ---
 
