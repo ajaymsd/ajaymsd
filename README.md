@@ -33,14 +33,14 @@
 ## 🚀 Featured Projects
 
 ### 🔹 [YUKO SaaS – WooCommerce & Shopify Automation Tool](https://github.com/ajaymsd)
-- Built Laravel Jobs, REST APIs, and integrated Shopify/WooCommerce webhooks
+- Built Laravel Jobs, REST APIs with Node JS, and integrated Shopify/WooCommerce webhooks
 - Developed dynamic UI in React with Tailwind and used Redis for fast caching
 
 ### 🔹 [UpsellWP – WooCommerce Plugin](https://wordpress.org/plugins/upsellwp/)
 - Created upselling features (thank-you offers, product recommendations)
 - Improved UI/UX with custom dashboards & visual analytics (Chart.js)
 
-### 🔹 [WPBundle – Flexible Product Bundling Plugin](https://wpproplugin.com/plugins/wpbundle)
+### 🔹 [WPBundle – Flexible Product Bundling Plugin](https://wpbundle.net/)
 - Developed advanced bundle product type
 - Achieved 45+ sales and $2.7K+ revenue 💰
 
